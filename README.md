@@ -7,7 +7,7 @@
 
 **目錄：**
 用Gemini弄出來ㄉ神奇小玩意
-1. [西洋棋分析大師](https://gemini.google.com/share/c7ad817e1466)
+1. [西洋棋分析大師](https://gemini.google.com/share/5d19480a81a6)
 
 筆記區：
 1. [物理製圖常用程式碼](https://github.com/jaunty0216/PersonalProjects/blob/main/%E7%89%A9%E7%90%86%E8%A3%BD%E5%9C%96%E5%B8%B8%E7%94%A8%E7%A8%8B%E5%BC%8F%E7%A2%BC.ipynb)
