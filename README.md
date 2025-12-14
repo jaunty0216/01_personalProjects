@@ -5,9 +5,17 @@
 3. 小玩意
 4. 一些程式碼的片段
 
-**目錄：**
-用Gemini弄出來ㄉ神奇小玩意
+**用Gemini弄出來ㄉ神奇小玩意：**
+
 1. [西洋棋分析大師](https://gemini.google.com/share/5d19480a81a6)
+
+**用Google AI studio弄出來ㄉ神奇小玩意**
+
+1. [Lonely snow](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221kQ0D99LzP-4YWaGg_mj-TYEjsUyndhD0%22%5D,%22action%22:%22open%22,%22userId%22:%22105594955935528292055%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
+
+
+
+
 
 筆記區：
 1. [物理製圖常用程式碼](https://github.com/jaunty0216/PersonalProjects/blob/main/%E7%89%A9%E7%90%86%E8%A3%BD%E5%9C%96%E5%B8%B8%E7%94%A8%E7%A8%8B%E5%BC%8F%E7%A2%BC.ipynb)
