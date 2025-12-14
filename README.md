@@ -14,7 +14,7 @@
 **用Google AI studio弄出來ㄉ神奇小玩意**
 
 1. [Lonely snow](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221kQ0D99LzP-4YWaGg_mj-TYEjsUyndhD0%22%5D,%22action%22:%22open%22,%22userId%22:%22105594955935528292055%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
-2.[字幕大師](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221rnkDR-iECXYTAGgJg3J_ijjh24vtE5Tg%22%5D,%22action%22:%22open%22,%22userId%22:%22105594955935528292055%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
+2. [字幕大師](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221rnkDR-iECXYTAGgJg3J_ijjh24vtE5Tg%22%5D,%22action%22:%22open%22,%22userId%22:%22105594955935528292055%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
 
 
 **筆記區：**
