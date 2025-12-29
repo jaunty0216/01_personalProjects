@@ -10,6 +10,7 @@
 **用Gemini弄出來ㄉ神奇小玩意：**
 
 1. [西洋棋分析大師](https://gemini.google.com/share/5d19480a81a6)
+2. [英文作文練習機](https://gemini.google.com/share/127031a44115)
 
 **用Google AI studio弄出來ㄉ神奇小玩意**
 
