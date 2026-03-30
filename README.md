@@ -27,3 +27,4 @@
 3. [簡易加密或解密](https://github.com/jaunty0216/PersonalProjects/blob/47bf2c15b518f5573f3491d650df27dceba48055/%E7%B0%A1%E6%98%93%E5%8A%A0%E5%AF%86%E6%88%96%E8%A7%A3%E5%AF%86.py)
 4. [計算空間距離](https://github.com/jaunty0216/PersonalProjects/blob/47bf2c15b518f5573f3491d650df27dceba48055/%E8%A8%88%E7%AE%97%E7%A9%BA%E9%96%93%E8%B7%9D%E9%9B%A2.py)
 5. [鳩尾榫計算](https://github.com/jaunty0216/PersonalProjects/blob/47bf2c15b518f5573f3491d650df27dceba48055/%E9%B3%A9%E5%B0%BE%E6%A6%AB%E8%A8%88%E7%AE%97.py)
+6. [材料報價](https://colab.research.google.com/drive/1QjMYLitktv-HiFF28EI2IjJMr_t_5K6X?usp=sharing)
