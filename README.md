@@ -1,4 +1,5 @@
-# PersonalProjects 個人專案
+# personalProject 個人專案
+//更心流程：將上傳到github的專案用colab打開之後，再複製連結
 這個地方我會用來存放...
 1. 我的筆記
 2. 各種小小專案
